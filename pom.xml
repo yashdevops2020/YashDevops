@@ -11,7 +11,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.yash</groupId>
-	<artifactId>todoapp</artifactId>
+	<artifactId>YashDevops</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>todoapp</name>
 	<description>Demo project for Spring Boot</description>
